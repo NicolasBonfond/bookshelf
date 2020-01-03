@@ -1,5 +1,5 @@
 # This defines our starting point
-FROM node:8 
+FROM node: 12
 
 RUN mkdir /usr/src/app 
 
